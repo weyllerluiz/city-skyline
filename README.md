@@ -2,10 +2,6 @@
 
 Este projeto é uma representação visual de um skyline urbano usando HTML e CSS. Ele utiliza gradientes radiais e lineares para criar a ilusão de prédios e janelas em diferentes planos de fundo e primeiro plano.
 
-## **Demonstração**
-
-Inclua uma imagem ou gif do skyline aqui, se desejar.
-
 ## **Tecnologias Utilizadas** 🛠️
 
 - HTML5
@@ -62,4 +58,4 @@ Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
 ## **Acesse o Site** 🌐
 
-[Clique aqui para acessar o site](URL_DO_SITE_AQUI)
+[Clique aqui](https://weyllerluiz.github.io/city-skyline/) para acessar o site.
